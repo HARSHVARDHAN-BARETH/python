@@ -3,3 +3,5 @@ length = 0
 for x in a:
     length += 1
 print(length)
+
+# o/p: 20
