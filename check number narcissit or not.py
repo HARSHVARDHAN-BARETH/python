@@ -7,6 +7,6 @@ while a != 0:
     a = a // 10
 
 if a == s:
-    print("Armstrong", s)
+    print("narcissit", s)
 else:
-    print("Not Armstrong", s)
+    print("Not narcissit", s)
